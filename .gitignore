@@ -1,6 +1,10 @@
 # Tu Virtual Environment
 venv_pablo/
 
+# Carpetas de datos
+data/
+data_pablo/
+
 # Otros entornos virtuales comunes (por las dudas)
 venv/
 env/
